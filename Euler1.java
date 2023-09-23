@@ -1,4 +1,4 @@
-public class Multiples {
+rpublic class Euler1 {
     //Sum of Multiples of 3 and 5 for numbers below 1000
     public static void main(String[] args) {
         int sum=0; 
