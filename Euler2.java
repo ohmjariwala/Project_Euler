@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class EvenFib {
+public class Euler2 {
     public static void main(String[] args) {
         List <Integer> list= new ArrayList<Integer>();
         int sum=0;
