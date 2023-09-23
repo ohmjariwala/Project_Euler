@@ -1,4 +1,4 @@
-public class ThreeDigPalindrome {
+public class Euler4 {
     public static void main(String[] args) {
         int value=0;
 
