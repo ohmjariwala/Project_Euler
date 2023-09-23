@@ -1,4 +1,4 @@
-public class LargestPrimeFactor {
+public class Euler3 {
     public static void main(String[] args) {
         long a= 600851475143L;
         long largestPrimeFactor= 1;
